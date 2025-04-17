@@ -1,2 +1,10 @@
-# utils
-Scripts, ferramentas, protótipos ou arquivos úteis que não se encaixam diretamente nos outros módulos.
+# utils/
+Auxiliary tools and automation scripts
+
+## Utils Repository Structure
+```
+│   ├── setup.sh              # Initial setup script
+│   ├── converters/           # File or format converters
+│   ├── benchmarks/           # Performance analysis tools
+│   └── README.md
+```
